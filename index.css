@@ -8,7 +8,7 @@ body{background-image:url('bg-gmp.jpg');text-align:center}
 #ppp1{color:white; border:black 10px dotted; font-family:serif; font-size:48;display:inline;background-color:black;border-radius:50px}
 
 
-#img1{ border-radius:50px; border:deeppink 15px double ; padding:2px; margin:10px ; width:90%; height:200px}
+#img1{ position:fixed;border-radius:50px; border:deeppink 15px double ; padding:2px; margin:10px ; width:90%; height:200px}
 #img1:hover{background-color:black; padding:10px; margin:10px ; width:80%; height:200px;border:lime 19px dotted}
 span{color:deeppink;font-family:rambo} 
 
