@@ -1,0 +1,32 @@
+body{background-image:url('bg-gmp.jpg');text-align:center}
+
+#emma11{background-image:url('emm.png');text-align:center}
+#djk11{background-image:url('djknt.png');text-align:center}
+#serena11{background-image:url('srn.png');text-align:center}
+#dharia11{background-image:url('dha.png');text-align:center}
+
+#ppp1{color:white; border:black 10px dotted; font-family:serif; font-size:48;display:inline;background-color:black;border-radius:50px}
+
+
+#img1{ border-radius:50px; border:deeppink 15px double ; padding:2px; margin:10px ; width:90%; height:200px}
+#img1:hover{background-color:black; padding:10px; margin:10px ; width:80%; height:200px;border:lime 19px dotted}
+span{color:deeppink;font-family:rambo} 
+
+#h11{display:inline;outline:3px double white;text-align:center;background-color:black;color:lime;border:3px dotted deeppink; border-radius:50px 20px}
+#h22{display:inline;text-align:center;background-color:black;color:lime;border:3px double deeppink; border-radius:50px 20px;}
+
+
+	#dharia:hover{background-color:black;color:orange}
+input{background-color:blue;color:white;margin:10px;width:40%;font-size:23px}
+	
+	#djkanti:hover{width:25%} #djkanti{width:50%}
+	#emma:hover{width:25%}
+	#dharia1:hover{width:25%} #dharia1{width:50%}
+	#serena:hover{width:25%} #serena{width:50%}
+	#djsnake:hover{width:25%}
+	
+#dharia{border:5px solid ; border-radius:40px}	
+.below{background-color:green;color:white}
+
+.vd1{width:350px;height:220px;border:10px yellow solid; border-radius:40px 20px;background-color:black}
+.vd1:hover{border:dotted lime 5px; border-radius:30px;width:450px;height:320px}
