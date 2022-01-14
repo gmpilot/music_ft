@@ -8,8 +8,8 @@ body{background-image:url('bg-gmp.jpg');text-align:center}
 #ppp1{color:white; border:black 10px dotted; font-family:serif; font-size:48;display:inline;background-color:black;border-radius:50px}
 
 
-#img1{ position:fixed;border-radius:50px; border:deeppink 15px double ; padding:2px; margin:10px ; width:90%; height:200px}
-#img1:hover{background-color:black; padding:10px; margin:10px ; width:80%; height:200px;border:lime 19px dotted}
+#img1{ float: right;opacity:0.5;position:fixed;border-radius:50px; border:deeppink 15px double ; padding:2px; margin:10px ; width:25%; height:50px}
+#img1:hover{opacity:0.7;background-color:black; padding:10px; margin:10px ; width:20%; height:40px;border:lime 19px dotted}
 span{color:deeppink;font-family:rambo} 
 
 #h11{display:inline;outline:3px double white;text-align:center;background-color:black;color:lime;border:3px dotted deeppink; border-radius:50px 20px}
